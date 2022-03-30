@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 cd -
 =======
 cd - 
 >>>>>>> 6bf7afe4b371fec5f9032326aac3910aefc365bc
+=======
+cd -
+>>>>>>> 1a6940f94d52fa66a2c051c7e48ca5befaa24682
